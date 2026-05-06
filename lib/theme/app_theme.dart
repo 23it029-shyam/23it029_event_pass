@@ -3,6 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'app_colors.dart';
 import 'app_text_styles.dart';
 
+/// Main theme configuration for the application
 class AppTheme {
   static ThemeData get lightTheme {
     final baseTextTheme = GoogleFonts.interTextTheme();
