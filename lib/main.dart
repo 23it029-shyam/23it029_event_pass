@@ -5,6 +5,7 @@ import 'app.dart';
 import 'models/event_model.dart';
 import 'models/participant_model.dart';
 
+// Application entry point initializing Hive and ProviderScope
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   
