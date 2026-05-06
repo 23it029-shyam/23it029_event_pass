@@ -24,6 +24,7 @@ CustomTransitionPage buildPageWithDefaultTransition<T>({
   );
 }
 
+/// Root widget of the application that configures routing and theme
 class EventPassApp extends StatefulWidget {
   const EventPassApp({super.key});
 
